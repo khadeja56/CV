@@ -1,0 +1,103 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff;
+    color: #333;
+    line-height: 1.6;
+}
+
+.page-container {
+    margin: 20px auto; 
+    padding: 20px; 
+    width: 90%; 
+    max-width: 900px; 
+    border: 3px solid #000; 
+    border-radius: 0px; 
+    background-color: #fff; 
+}
+/* Header Section */
+header {
+    text-align: left;
+    margin: 40px 0;
+    padding-top: 20px; 
+    width: 80%; 
+    margin-left: auto;
+    margin-right: auto;
+    border-top: 3px solid #000; 
+    
+}
+
+header h1 {
+    margin: 0;
+    margin-left: 0px;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+header p {
+    font-size: 18px;
+    color: #008000; 
+}
+
+address {
+    font-style: normal;
+    line-height: 1.4;
+}
+
+/* Section Titles */
+h2 {
+    font-size: 20px;
+    margin-bottom: 0px;
+    color: #008000;
+    padding-bottom: 0px;
+}
+
+/* Content Sections */
+section {
+    margin: 0px auto;
+    padding: 0px 0px;
+    width: 80%;
+    max-width: 800px;
+}
+
+section ul {
+    list-style: disc;
+    padding: 0;
+    padding-left: 20px;
+}
+
+section ul li {
+    margin: 10px 0;
+}
+
+/* Skills Section */
+#skills {
+    margin-bottom: 0px;
+}
+
+/* Education Section */
+#education p {
+    margin: 5px 0;
+}
+
+#education strong {
+    color: #043e7d; 
+}
+
+/* Experience Section */
+#experience h3 {
+    font-size: 18px;
+    margin: 10px 0;
+    color: #043e7d; 
+}
+
+
+
+/* Links */
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
