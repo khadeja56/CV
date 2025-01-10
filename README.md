@@ -38,3 +38,6 @@ The website is designed with simplicity and professionalism in mind, ensuring co
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/khadeja56/CV
+2. Preview on web:
+   ```
+   https://khadeja56.github.io/CV/
