@@ -25,7 +25,7 @@ The website is designed with simplicity and professionalism in mind, ensuring co
 ## Features
 - **Clean Layout**: Easy-to-read sections with organized content.
 - **Customizable**: Easily adapt the code to fit your own CV content.
-
+- **Responsive**: Includes responsiveness for different screen sizes and dark mode support
 ---
 
 ## Technologies Used
